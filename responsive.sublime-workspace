@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline"
+			],
+			[
+				"tsh",
+				"tsh+	text-shadow: ${1:0} ${2:0} ${3:0} ${4:#000};"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"spacing",
+				"letter-spacing"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 169.0,
+		"selected_items":
+		[
+			[
+				"ascii",
+				"Snippet: asciihelp"
+			],
+			[
+				"asci",
+				"Snippet: asciihelp"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/damaris/Dropbox/hackeryou/week two/positioning-and-floats/ex6-floats2.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/week2-day2/centered-nav.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/week2-day2/simple-nav.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/week2-day2/nested-lists.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/week2-day2/list-style.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/fullbleed.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/positioning-and-floats/ex5-floats.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/positioning-and-floats/ex4-position-relative-border.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/position_absolute.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/position-relative.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/html-challenge.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/positioning-and-floats/ex3-position.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/positioning-and-floats/ex2-position-absolute.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/positioning-and-floats/ex1-position-relative.html",
+		"/Users/damaris/Dropbox/hackeryou/week two/display.html",
+		"/Users/damaris/Dropbox/hackeryou/fullbleed_nasma.html",
+		"/Users/damaris/Downloads/semanticelements/styles/main.css",
+		"/Users/damaris/Downloads/semanticelements/index.html",
+		"/Users/damaris/Dropbox/hackeryou/precourse/onepage/onepage.html",
+		"/Users/damaris/Downloads/DraggableDualViewSlideshow/css/demo.css",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-layout-exercise.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-selector-exercises.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-margin-padding-exercise.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-margin-padding.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-floats2.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-floats1.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-box-model.html",
+		"/Users/damaris/Downloads/DraggableDualViewSlideshow/index.html",
+		"/Users/damaris/Downloads/DraggableDualViewSlideshow/css/dragdealer.css",
+		"/Users/damaris/Dropbox/hackeryou/week one/typography-exercise/typography-exercise.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-fun.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-width-height.html",
+		"/Users/damaris/Dropbox/hackeryou/normaliza_whitespace.css",
+		"/Users/damaris/Downloads/HoverEffectIdeas/css/component.css",
+		"/Users/damaris/Downloads/HoverEffectIdeas/index.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/bg-images/bg-images.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/typography.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-class-selector.html",
+		"/Users/damaris/Dropbox/hackeryou/week one/css-multi-class-selector.html",
+		"/Users/damaris/Downloads/markup-exercise/markup-exercise.html",
+		"/Users/damaris/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/damaris/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"wrapper",
+			";\n",
+			"0",
+			";\n",
+			"section",
+			".header",
+			"viewport",
+			" \n",
+			"sidebar",
+			"Team"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"header"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								80
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "responsive.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
